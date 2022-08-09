@@ -17,12 +17,20 @@
 
 Do check out & run [example.ts](https://github.com/adiwajshing/Baileys/blob/master/Example/example.ts) to see an example usage of the library.
 The script covers most common use cases.
+
 To run the example script, download or clone the repo and then type the following in a terminal:
+
 1. ``` cd path/to/Baileys ```
 2. ``` yarn ```
 3. 
     - ``` yarn example ``` for the multi-device edition
     - ``` yarn example:legacy ``` for the legacy web edition
+
+Once you get it running, you'll need to use your phone to scan the QR code, then log into WhatsApp in your web browser to link the session. As you interact with WhatsApp web, you'll see debug events in the console.
+
+[![Running the Baileys example](https://replayable-api-production.herokuapp.com/replay/62f2a072ec389e00663da82e/gif?shareKey=SSFriXFw6dYS93W7H7zLdw)](https://replayable.io/replay/62f2a072ec389e00663da82e/?share=SSFriXFw6dYS93W7H7zLdw)
+
+If you get `command not found: yarn` ([example](https://replayable.io/replay/62f29ef7ec389e00663da82c/?share=fzRtgUiR9LqHjnvnNtaHg)), you may need to [install yarn](https://replayable.io/replay/62f29f4e48c17a006abc675d/?share=P3jaPkhfY26bCjAcg6M7rQ).
 
 ## Install
 
